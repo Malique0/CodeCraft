@@ -1,0 +1,19 @@
+body {
+    padding-top: 56px;
+    background: #141516 ;
+
+
+    color: Cyan;
+}
+Text {
+font-family: PTSerif-BoldItalic;
+}
+@media (max-width: 767.98px){
+body {
+padding-top: 70px;
+}
+}
+#Login {
+font-size: 80px;
+    color: Cyan;
+    }

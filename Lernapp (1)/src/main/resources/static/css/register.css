@@ -1,0 +1,35 @@
+body {
+padding-top: 56px;
+background-color:#141516;
+color: Cyan;
+
+}
+Text {
+font-family: PTSerif-BoldItalic;
+}
+@media (max-width: 767.98px){
+body {
+padding-top: 70px;
+}
+}
+#Registrieren {
+font-size: 80px;
+}
+a.text-decoration-none {
+    color: #007bff;
+}
+
+a.text-decoration-none:hover {
+    text-decoration: underline;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
